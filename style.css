@@ -3,7 +3,10 @@ h1{
     
 }
 .name-highlight{
-    color: blueviolet;
+    color: rgb(243, 72, 129);
+}
+.highlight{
+    color: rgb(134, 37, 224);
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -16,5 +19,5 @@ body{
 }
 .half-width img{
     width: 100%;
-    margin-top: 2%;
+    margin-top: 15%;
 }
