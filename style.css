@@ -10,6 +10,7 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .half-width{
     width: 40%;
@@ -19,6 +20,30 @@ body{
 }
 .half-width img{
     width: 100%;
-    margin: 15% 5%;
     
+       
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    background-color: rgb(245, 71, 158);
+    border-radius: 5px;
+    color: white ;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(245, 71, 158),rgb(134,37,224));
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
