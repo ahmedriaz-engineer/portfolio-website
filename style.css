@@ -54,13 +54,31 @@ p{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
     height: 80%;
+    background-color: white;
 }
 .experiencs{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     
+    
 }
 .experiencs h2{
     font-size: 40px;
+    
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, navy, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
